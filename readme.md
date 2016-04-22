@@ -28,6 +28,6 @@ Clone repository
 View in browser at localhost:3000  
 
 ##### License
-Copyright 2016 Jeff Seymour
+Copyright 2016 - Jeff Seymour
 
 *This software is licensed under the MIT license.*
